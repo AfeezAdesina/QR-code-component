@@ -62,8 +62,8 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AfeezAdesina)
-- Twitter - [@yourusername](https://www.twitter.com/_codewithafeez)
+- Frontend Mentor - [@AfeezAdesina](https://www.frontendmentor.io/profile/AfeezAdesina)
+- Twitter - [@_codewithafeez](https://www.twitter.com/_codewithafeez)
 
 
 ## Acknowledgments
